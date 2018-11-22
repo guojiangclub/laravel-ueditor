@@ -1,5 +1,5 @@
 {
-  "name": "element-vip/ueditor",
+  "name": "ibrand/laravel-ueditor",
   "description": "UEditor for laravel5. Support i18n. UEditor is a Rich Text Web Editor From Baidu.",
   "keywords": [
     "laravel",
@@ -23,7 +23,7 @@
   },
   "autoload": {
     "psr-4": {
-      "ElementVip\\UEditor\\": "src/"
+      "iBrand\\UEditor\\": "src/"
     }
   },
   "minimum-stability": "dev",

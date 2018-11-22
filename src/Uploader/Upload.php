@@ -1,4 +1,4 @@
-<?php namespace ElementVip\UEditor\Uploader;
+<?php namespace iBrand\UEditor\Uploader;
 
 use Symfony\Component\HttpFoundation\File\Exception\FileException;
 
@@ -7,7 +7,7 @@ use Symfony\Component\HttpFoundation\File\Exception\FileException;
  * 文件上传抽象类
  *
  *
- * @package ElementVip\UEditor\Uploader
+ * @package iBrand\UEditor\Uploader
  */
 abstract class Upload
 {

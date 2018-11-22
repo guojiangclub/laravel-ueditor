@@ -1,6 +1,6 @@
-<?php namespace ElementVip\UEditor\Uploader;
+<?php namespace iBrand\UEditor\Uploader;
 
-use ElementVip\UEditor\Uploader\Upload;
+use iBrand\UEditor\Uploader\Upload;
 
 /**
  *
@@ -9,7 +9,7 @@ use ElementVip\UEditor\Uploader\Upload;
  *
  * 文件/图像普通上传
  *
- * @package ElementVip\UEditor\Uploader
+ * @package iBrand\UEditor\Uploader
  */
 class UploadFile  extends Upload{
     use UploadQiniu;

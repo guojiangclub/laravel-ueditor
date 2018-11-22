@@ -1,11 +1,11 @@
-<?php namespace ElementVip\UEditor\Uploader;
+<?php namespace iBrand\UEditor\Uploader;
 
-use ElementVip\UEditor\Uploader\Upload;
+use iBrand\UEditor\Uploader\Upload;
 
 /**
  * Class UploadScrawl
  * 涂鸦上传
- * @package ElementVip\UEditor\Uploader
+ * @package iBrand\UEditor\Uploader
  */
 class UploadScrawl extends Upload
 {

@@ -1,4 +1,4 @@
-<?php namespace ElementVip\UEditor\Uploader;
+<?php namespace iBrand\UEditor\Uploader;
 
 use \Qiniu\Storage\UploadManager;
 use \Qiniu\Auth;
@@ -10,7 +10,7 @@ use \Qiniu\Auth;
  *
  * 七牛 上传 类
  *
- * @package ElementVip\UEditor\Uploader
+ * @package iBrand\UEditor\Uploader
  */
 trait UploadQiniu
 {

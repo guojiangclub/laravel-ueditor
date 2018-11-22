@@ -1,4 +1,4 @@
-<?php namespace ElementVip\UEditor;
+<?php namespace iBrand\UEditor;
 
 
 class Lists

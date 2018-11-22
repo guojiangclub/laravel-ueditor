@@ -1,6 +1,6 @@
-<?php namespace ElementVip\UEditor\Uploader;
+<?php namespace iBrand\UEditor\Uploader;
 
-use ElementVip\UEditor\Uploader\Upload;
+use iBrand\UEditor\Uploader\Upload;
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\GuzzleException;
 use Storage;
@@ -9,7 +9,7 @@ use Storage;
  * Class UploadCatch
  * 图片远程抓取
  *
- * @package ElementVip\UEditor\Uploader
+ * @package iBrand\UEditor\Uploader
  */
 class UploadCatch extends Upload
 {

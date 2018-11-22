@@ -1,4 +1,4 @@
-<?php namespace ElementVip\UEditor;
+<?php namespace iBrand\UEditor;
 
 use Illuminate\Routing\Router;
 use Illuminate\Foundation\Support\Providers\RouteServiceProvider;

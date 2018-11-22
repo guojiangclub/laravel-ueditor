@@ -1,11 +1,11 @@
-<?php namespace ElementVip\UEditor;
+<?php namespace iBrand\UEditor;
 
 use Illuminate\Routing\Controller as BaseController;
 use Illuminate\Http\Response;
 use Illuminate\Http\Request;
-use ElementVip\UEditor\Uploader\UploadScrawl;
-use ElementVip\UEditor\Uploader\UploadFile;
-use ElementVip\UEditor\Uploader\UploadCatch;
+use iBrand\UEditor\Uploader\UploadScrawl;
+use iBrand\UEditor\Uploader\UploadFile;
+use iBrand\UEditor\Uploader\UploadCatch;
 use Illuminate\Support\Facades\Input;
 
 class Controller extends BaseController
