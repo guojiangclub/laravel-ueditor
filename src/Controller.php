@@ -146,6 +146,7 @@ class Controller extends BaseController
                 break;
         }
 
+        $result['imageUrlPrefix']='';
         return response()->json($result, 200, [], JSON_UNESCAPED_UNICODE);
 
     }
