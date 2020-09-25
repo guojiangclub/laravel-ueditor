@@ -1,31 +1,30 @@
 {
-  "name": "ibrand/laravel-ueditor",
-  "description": "UEditor for laravel5. Support i18n. UEditor is a Rich Text Web Editor From Baidu.",
-  "keywords": [
-    "laravel",
-    "ueditor",
-    "laravel-u-editor",
-    "laravel5 web text editor"
-  ],
-  "license": "MIT",
-  "authors": [
-    {
-      "name": "chen hao",
-      "email": "chenhao@element.vip"
-    }
-  ],
-
-  "require": {
-    "php": ">=5.4.0",
-    "ext-fileinfo": "*",
-    "illuminate/support": "5.*",
-    "qiniu/php-sdk": "7.*"
-  },
-  "autoload": {
-    "psr-4": {
-      "iBrand\\UEditor\\": "src/"
-    }
-  },
-  "minimum-stability": "dev",
-  "prefer-stable": true
+	"name": "ibrand/laravel-ueditor",
+	"description": "UEditor for laravel5. Support i18n. UEditor is a Rich Text Web Editor From Baidu.",
+	"keywords": [
+		"laravel",
+		"ueditor",
+		"laravel-u-editor",
+		"laravel5 web text editor"
+	],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "chen hao",
+			"email": "chenhao@element.vip"
+		}
+	],
+	"require": {
+		"php": ">=5.4.0",
+		"ext-fileinfo": "*",
+		"illuminate/support": "5.*|6.*|7.*",
+		"qiniu/php-sdk": "7.*"
+	},
+	"autoload": {
+		"psr-4": {
+			"iBrand\\UEditor\\": "src/"
+		}
+	},
+	"minimum-stability": "dev",
+	"prefer-stable": true
 }
